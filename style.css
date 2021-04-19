@@ -1,7 +1,13 @@
 
-/* for Hero section */
+/* for Hero section background img */
 .cover {
   background-image: url(img/bg.jpg);
   background-size: cover;
   min-height: 100vh;
 } 
+
+/* for Hero section portrait img and texts */
+.cover-content img {
+  max-width: 200px;
+  
+}
