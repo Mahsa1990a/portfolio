@@ -7,7 +7,12 @@
   min-height: 100vh;
 } 
 
-/* for Hero section portrait img and texts */
+/* for Hero section center portrait img and texts */
+.cover-content {
+  min-height: 100vh;
+}
+
+/* for Hero section portrait img */
 .cover-content img {
   max-width: 200px;
   border: 2px double #fff;
