@@ -22,3 +22,20 @@
 .about {
   background-color: #ececec;
 }
+
+/* To adjust it with phone view : smaller than this width */
+@media only screen and(max-width:768px) {
+  .cover-content h1 {
+    font-size: 10px;
+    font-weight: bold;
+  }
+  .cover-content img {
+    margin-top: 100px;
+  }
+}
+
+@media only screen and(max-width:320px) {
+  footer p {
+    font-size: 5px;
+  }
+}
