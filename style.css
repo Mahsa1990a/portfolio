@@ -17,3 +17,8 @@
   max-width: 200px;
   border: 2px double #fff;
 }
+
+/* About section */
+.about {
+  background-color: #ececec;
+}
