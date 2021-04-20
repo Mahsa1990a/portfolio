@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 
 /* for Hero section background img */
 .cover {
